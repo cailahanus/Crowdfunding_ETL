@@ -34,12 +34,12 @@ Extract and transform the crowdfunding.xlsx Excel data to create a campaign Data
 - Split each "name" column value into a first and last name, and place each in a new column.
 - Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
 
-# Create the Crowdfunding Database (TEAM)
-- Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site. (Gustavo)
-- Use the information from the ERD to create a table schema for each CSV file. (Gustavo)
+# Create the Crowdfunding Database (**TEAM**)
+- Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site. (**Gustavo**)
+- Use the information from the ERD to create a table schema for each CSV file. (**Gustavo**)
 - Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it to your GitHub repository.
-- Create a new Postgres database, named crowdfunding_db. (TEAM)
-- Using the database schema, create the tables in the correct order to handle the foreign keys. (TEAM)
-- Verify the table creation by running a SELECT statement for each table. (TEAM)
-- Import each CSV file into its corresponding SQL table. (TEAM)
-- Verify that each table has the correct data by running a SELECT statement for each. (TEAM)
+- Create a new Postgres database, named crowdfunding_db. (**TEAM**)
+- Using the database schema, create the tables in the correct order to handle the foreign keys. (**TEAM**)
+- Verify the table creation by running a SELECT statement for each table. (**TEAM**)
+- Import each CSV file into its corresponding SQL table. (**TEAM**)
+- Verify that each table has the correct data by running a SELECT statement for each. (**TEAM**)
